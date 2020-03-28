@@ -10,4 +10,6 @@ app.use(express.json());
 app.use(router);
 app.use(errors())
 
-app.listen(3333);
+module.exports = app;
+
+//app.listen(3333);
