@@ -1,4 +1,4 @@
-# Be The Hero
+# :computer: Be The Hero
 
 <p align="justify">
 Projeto criado durante minha participação na 11ª versão do workshop "Semana Omnistack" organizada pela @Rocketseat.
@@ -7,7 +7,7 @@ A aplicação se trata de uma plataforma completa, incluindo um <i>app mobile</i
 
 ![preview](.github/preview.png)
 
-**:start: Recursos:**
+**:star: Recursos:**
 
 - API com validações e conexão com banco de dados SQL
 - Plataforma web SPA.
